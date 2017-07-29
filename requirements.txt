@@ -1,0 +1,2 @@
+pyperclip==1.5.27
+simplejson==3.11.1
