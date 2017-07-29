@@ -15,7 +15,8 @@ def format_clipboard_to_json():
 	    		# and return the same sort order each time
 	    		pretty_content = json.dumps(parsed, sort_keys=True, indent=2)
 	    		pyperclip.copy(pretty_content)
-	    		pretty_content = cb_content
+
+	    		recent_value = pretty_content
 	    	except ValueError:
 	    		pass
 
