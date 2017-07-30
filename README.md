@@ -1,6 +1,6 @@
 # Prettifies JSON in your clipboard
 ___
-Turn boring, unreadable json into shiny, formatted json!
+Turn boring json into happy json!
 
 Sad JSON
 ```
