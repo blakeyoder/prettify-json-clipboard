@@ -20,7 +20,7 @@ def format_clipboard_to_json():
 	    	except ValueError:
 	    		pass
 
-	    time.sleep(2)
+	    time.sleep(1)
 
 if __name__ == '__main__':
 	format_clipboard_to_json()
