@@ -1,6 +1,6 @@
 # Prettifies JSON in your clipboard
 ___
-Turn boring json into happy json!
+Turn disappointing json into happy json!
 
 :disappointed:
 ```
